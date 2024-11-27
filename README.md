@@ -1,2 +1,8 @@
-# se-uni-kiel.github.io
-Software Engineering @ Kiel University
+## Software Engineering @ Kiel University
+- Team
+- Student Theses
+- Teaching
+- Research Projects
+- Publications
+- Jobs
+
