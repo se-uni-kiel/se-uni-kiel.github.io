@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://se-uni-kiel.github.io/sitemap.xml
+Sitemap: https://cau-se.github.io/sitemap.xml
